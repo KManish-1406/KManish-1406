@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/KManish-1406">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=780&height=50&lines=%F0%9F%A4%96+Building+AI+that+solves+real+problems;%F0%9F%94%90+Privacy-Preserving+LLMs+with+Homomorphic+Encryption;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%2B+IoT+%2B+Edge+AI;%F0%9F%9B%A1%EF%B8%8F+Bug+Bounty+Hunter+%7C+C-DAC+2026;%F0%9F%8F%86+Hackathon+Finalist+%7C+IBM+%26+CodeSoft+Alumni;%F0%9F%9A%80+Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&random=false&background=0D1117&width=780&height=50&lines=%F0%9F%A4%96+Building+AI+that+solves+real+problems;%F0%9F%94%90+Privacy-Preserving+LLMs+with+Homomorphic+Encryption;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%2B+IoT+%2B+Edge+AI;%F0%9F%9B%A1%EF%B8%8F+Bug+Bounty+Hunter+%7C+C-DAC+2026;%F0%9F%8F%86+Hackathon+Finalist+%7C+IBM+%26+CodeSoft+Alumni;%F0%9F%9A%80+Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -30,7 +30,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1500&color=22D3EE&center=true&vCenter=true&width=760&lines=%F0%9F%94%AD+Building+%E2%80%94+Privacy-preserving+LLM+inference+%26+carbon+capture+tech;%F0%9F%A7%A0+Learning+%E2%80%94+LLM+fine-tuning%2C+RAG%2C+Edge+AI%2C+multimodal+systems;%F0%9F%92%AC+Ask+me+about+%E2%80%94+Python%2C+OpenCV%2C+ML+pipelines%2C+hackathons;%E2%9A%A1+Fun+fact+%E2%80%94+my+first+AI+project+taught+a+computer+to+catch+me+sleeping" alt="Now"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1500&color=22D3EE&background=0D1117&center=true&vCenter=true&width=760&height=44&lines=%F0%9F%94%AD+Building+%E2%80%94+Privacy-preserving+LLM+inference+%26+carbon+capture+tech;%F0%9F%A7%A0+Learning+%E2%80%94+LLM+fine-tuning%2C+RAG%2C+Edge+AI%2C+multimodal+systems;%F0%9F%92%AC+Ask+me+about+%E2%80%94+Python%2C+OpenCV%2C+ML+pipelines%2C+hackathons;%E2%9A%A1+Fun+fact+%E2%80%94+my+first+AI+project+taught+a+computer+to+catch+me+sleeping" alt="Now"/>
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -50,19 +50,15 @@
 <table>
 <tr>
 <td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-1.svg" width="490" alt="Privacy-Preserving LLM Inference"/></a></td>
-<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-2.svg" width="490" alt="CarbonLoop"/></a></td>
+<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-2.svg" width="490" alt="Driver Drowsiness Detection"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-3.svg" width="490" alt="Driver Drowsiness Detection"/></a></td>
-<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-4.svg" width="490" alt="ShareMeal"/></a></td>
+<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-3.svg" width="490" alt="Alumni Connect Platform"/></a></td>
+<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-4.svg" width="490" alt="Office VSTO Add-ins"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-5.svg" width="490" alt="Smart Classroom Attendance"/></a></td>
-<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-6.svg" width="490" alt="Alumni Connect Platform"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-7.svg" width="490" alt="Office VSTO Add-ins"/></a></td>
-<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-8.svg" width="490" alt="Unbeatable Tic-Tac-Toe AI"/></a></td>
+<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-5.svg" width="490" alt="NexaTech Solutions Website"/></a></td>
+<td><a href="https://github.com/KManish-1406?tab=repositories"><img src="assets/project-6.svg" width="490" alt="Unbeatable Tic-Tac-Toe AI"/></a></td>
 </tr>
 </table>
 
@@ -86,6 +82,12 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
+<img src="assets/sec-game.svg" alt="Snake Game"/>
+
+<img src="assets/game.svg" width="960" alt="Self-playing snake game"/>
+
+<img src="assets/divider.svg" width="100%"/>
+
 <img src="assets/sec-stats.svg" alt="GitHub Analytics"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=KManish-1406&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E2D9F3&ring_color=7C3AED&include_all_commits=true&border_radius=14" height="175"/>
@@ -97,7 +99,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KManish-1406&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KManish-1406&theme=tokyonight&no-frame=true&column=7&margin-w=6" width="100%"/>
 
 <br/>
 
@@ -113,7 +115,7 @@
 
 <img src="assets/sec-connect.svg" alt="Let's Connect"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=F472B6&center=true&vCenter=true&width=760&lines=%22The+best+AI+engineers+don't+just+write+models.%22;%22They+solve+real+problems.%22;Let's+build+something+impactful+together+%E2%9A%A1" alt="quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=F472B6&background=0D1117&center=true&vCenter=true&width=760&height=44&lines=%22The+best+AI+engineers+don't+just+write+models.%22;%22They+solve+real+problems.%22;Let's+build+something+impactful+together+%E2%9A%A1" alt="quote"/>
 
 <br/>
 
