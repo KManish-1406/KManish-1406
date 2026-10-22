@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="802" viewBox="0 0 960 802" ><defs><linearGradient id="tl" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="802"><stop offset="0" stop-color="#7C3AED"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#F472B6"/></linearGradient></defs>
+<text x="480.0" y="34" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="14" fill="#A78BFA" letter-spacing="5">EXPERIENCE · COMPETITIONS · TIMELINE
+  <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/></text>
+<line x1="150" y1="60" x2="150" y2="782" stroke="url(#tl)" stroke-width="3" stroke-linecap="round" stroke-dasharray="802" stroke-dashoffset="802">
+  <animate attributeName="stroke-dashoffset" values="802;0" dur="3s" fill="freeze"/></line>
+<circle r="5" fill="#fff" cx="150" cy="70"><animate attributeName="cy" values="70;772;70" dur="7s" repeatCount="indefinite"/></circle>
+
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.385;1" dur="1.30s" fill="freeze"/>
+  <circle cx="150" cy="92" r="16" fill="#7C3AED" opacity="0.18"><animate attributeName="r" values="12;24;12" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="92" r="8" fill="#7C3AED"/>
+  <text x="122" y="97" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" font-weight="700" fill="#7C3AED">2026</text>
+  <rect x="186" y="64" width="750" height="130" rx="14" fill="#120c24" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1.4"/>
+  <rect x="186" y="64" width="5" height="130" rx="2.5" fill="#7C3AED"/>
+  <text x="210" y="92" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="17" fill="#fff">iCOMM Tele Limited</text>
+  <text x="399" y="92" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#7C3AED">Development Intern</text>
+  <text x="210" y="128" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ Excel &amp; Word VSTO add-ins in C# (REST API, Word → Excel sync)</text><text x="210" y="150" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ NexaTech Solutions site: ASP.NET Core MVC + Bootstrap</text><text x="210" y="172" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ Luxury-car app on .NET 10 · RDLC reports on MySQL</text>
+  <animateTransform attributeName="transform" type="translate" values="40 0;40 0;0 0" keyTimes="0;0.385;1" dur="1.30s" fill="freeze"/>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.556;1" dur="1.80s" fill="freeze"/>
+  <circle cx="150" cy="254" r="16" fill="#EF4444" opacity="0.18"><animate attributeName="r" values="12;24;12" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="254" r="8" fill="#EF4444"/>
+  <text x="122" y="259" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" font-weight="700" fill="#EF4444">JUL 2026</text>
+  <rect x="186" y="226" width="750" height="108" rx="14" fill="#120c24" stroke="#EF4444" stroke-opacity="0.55" stroke-width="1.4"/>
+  <rect x="186" y="226" width="5" height="108" rx="2.5" fill="#EF4444"/>
+  <text x="210" y="254" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="17" fill="#fff">C-DAC Bug Bounty Challenge</text>
+  <text x="476" y="254" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#EF4444">Team XSparks · Vulnerability research</text>
+  <text x="210" y="290" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ Audited BOSS Linux 11 with no sudo access</text><text x="210" y="312" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ Found invalid sudoers directive, rogue root cron job, disabled nftables firewall</text>
+  <animateTransform attributeName="transform" type="translate" values="40 0;40 0;0 0" keyTimes="0;0.556;1" dur="1.80s" fill="freeze"/>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.652;1" dur="2.30s" fill="freeze"/>
+  <circle cx="150" cy="394" r="16" fill="#34D399" opacity="0.18"><animate attributeName="r" values="12;24;12" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="394" r="8" fill="#34D399"/>
+  <text x="122" y="399" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" font-weight="700" fill="#34D399">2026</text>
+  <rect x="186" y="366" width="750" height="108" rx="14" fill="#120c24" stroke="#34D399" stroke-opacity="0.55" stroke-width="1.4"/>
+  <rect x="186" y="366" width="5" height="108" rx="2.5" fill="#34D399"/>
+  <text x="210" y="394" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="17" fill="#fff">Capgemini Sustainability Hackathon</text>
+  <text x="552" y="394" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#34D399">Finalist · CarbonLoop</text>
+  <text x="210" y="430" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ AI + IoT + algae-bioreactor carbon capture device</text><text x="210" y="452" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ Full architecture, budget and carbon-credit model</text>
+  <animateTransform attributeName="transform" type="translate" values="40 0;40 0;0 0" keyTimes="0;0.652;1" dur="2.30s" fill="freeze"/>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.714;1" dur="2.80s" fill="freeze"/>
+  <circle cx="150" cy="534" r="16" fill="#FBBF24" opacity="0.18"><animate attributeName="r" values="12;24;12" dur="2.6s" begin="0.8999999999999999s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="534" r="8" fill="#FBBF24"/>
+  <text x="122" y="539" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" font-weight="700" fill="#FBBF24">SEP–OCT 2025</text>
+  <rect x="186" y="506" width="750" height="108" rx="14" fill="#120c24" stroke="#FBBF24" stroke-opacity="0.55" stroke-width="1.4"/>
+  <rect x="186" y="506" width="5" height="108" rx="2.5" fill="#FBBF24"/>
+  <text x="210" y="534" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="17" fill="#fff">CodeSoft</text>
+  <text x="303" y="534" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#FBBF24">AI Intern</text>
+  <text x="210" y="570" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ Rule-based NLP chatbot, face detection &amp; recognition</text><text x="210" y="592" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ Minimax Tic-Tac-Toe AI · portfolio site · calculator</text>
+  <animateTransform attributeName="transform" type="translate" values="40 0;40 0;0 0" keyTimes="0;0.714;1" dur="2.80s" fill="freeze"/>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.758;1" dur="3.30s" fill="freeze"/>
+  <circle cx="150" cy="674" r="16" fill="#22D3EE" opacity="0.18"><animate attributeName="r" values="12;24;12" dur="2.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="674" r="8" fill="#22D3EE"/>
+  <text x="122" y="679" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" font-weight="700" fill="#22D3EE">JUL–AUG 2025</text>
+  <rect x="186" y="646" width="750" height="108" rx="14" fill="#120c24" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1.4"/>
+  <rect x="186" y="646" width="5" height="108" rx="2.5" fill="#22D3EE"/>
+  <text x="210" y="674" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="17" fill="#fff">IBM</text>
+  <text x="255" y="674" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#22D3EE">AI Agent Development Intern</text>
+  <text x="210" y="710" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ ML-powered AI agents for enterprise use-cases</text><text x="210" y="732" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">▹ Data preprocessing &amp; feature engineering</text>
+  <animateTransform attributeName="transform" type="translate" values="40 0;40 0;0 0" keyTimes="0;0.758;1" dur="3.30s" fill="freeze"/>
+</g></svg>

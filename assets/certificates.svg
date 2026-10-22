@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" ><defs><clipPath id="cc0"><rect width="300" height="120" rx="14"/></clipPath><clipPath id="cc1"><rect width="300" height="120" rx="14"/></clipPath><clipPath id="cc2"><rect width="300" height="120" rx="14"/></clipPath><clipPath id="cc3"><rect width="300" height="120" rx="14"/></clipPath><clipPath id="cc4"><rect width="300" height="120" rx="14"/></clipPath><clipPath id="cc5"><rect width="300" height="120" rx="14"/></clipPath></defs>
+<g transform="translate(10 10)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;1" dur="0.70s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" values="10 35;10 35;10 10" keyTimes="0;0.000;1" dur="0.70s" fill="freeze"/>
+<g clip-path="url(#cc0)">
+  <rect width="300" height="120" fill="#120c24"/>
+  <rect x="-80" width="50" height="120" fill="#7C3AED" opacity="0.18" transform="skewX(-20)"><animate attributeName="x" values="-100;400" dur="4.5s" begin="0.0s" repeatCount="indefinite"/></rect>
+  <circle cx="270" cy="30" r="46" fill="#7C3AED" opacity="0.12"><animate attributeName="r" values="36;56;36" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle>
+</g>
+<text x="24" y="48" font-size="28">📜<animateTransform attributeName="transform" type="rotate" values="-8 38 40;8 38 40;-8 38 40" dur="3.5s" repeatCount="indefinite"/></text>
+<text x="68" y="42" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="13.5" fill="#fff">Data Science with Python</text>
+<text x="68" y="64" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#7C3AED">NPTEL · IIT Madras</text>
+<text x="24" y="102" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">⏱ Jul–Aug 2026</text>
+<rect x="1" y="1" width="298" height="118" rx="14" fill="none" stroke="#7C3AED" stroke-width="1.6" stroke-dasharray="14 10" stroke-opacity="0.8">
+  <animate attributeName="stroke-dashoffset" values="0;-96" dur="3s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(330 10)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.263;1" dur="0.95s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" values="330 35;330 35;330 10" keyTimes="0;0.263;1" dur="0.95s" fill="freeze"/>
+<g clip-path="url(#cc1)">
+  <rect width="300" height="120" fill="#120c24"/>
+  <rect x="-80" width="50" height="120" fill="#22D3EE" opacity="0.18" transform="skewX(-20)"><animate attributeName="x" values="-100;400" dur="4.5s" begin="0.25s" repeatCount="indefinite"/></rect>
+  <circle cx="270" cy="30" r="46" fill="#22D3EE" opacity="0.12"><animate attributeName="r" values="36;56;36" dur="4s" begin="0.25s" repeatCount="indefinite"/></circle>
+</g>
+<text x="24" y="48" font-size="28">📜<animateTransform attributeName="transform" type="rotate" values="-8 38 40;8 38 40;-8 38 40" dur="3.5s" repeatCount="indefinite"/></text>
+<text x="68" y="42" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="13.5" fill="#fff">Database Management System</text>
+<text x="68" y="64" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#22D3EE">NPTEL · IIT Kharagpur</text>
+<text x="24" y="102" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">⏱ Jan–Mar 2026</text>
+<rect x="1" y="1" width="298" height="118" rx="14" fill="none" stroke="#22D3EE" stroke-width="1.6" stroke-dasharray="14 10" stroke-opacity="0.8">
+  <animate attributeName="stroke-dashoffset" values="0;-96" dur="3s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(650 10)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.417;1" dur="1.20s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" values="650 35;650 35;650 10" keyTimes="0;0.417;1" dur="1.20s" fill="freeze"/>
+<g clip-path="url(#cc2)">
+  <rect width="300" height="120" fill="#120c24"/>
+  <rect x="-80" width="50" height="120" fill="#F472B6" opacity="0.18" transform="skewX(-20)"><animate attributeName="x" values="-100;400" dur="4.5s" begin="0.5s" repeatCount="indefinite"/></rect>
+  <circle cx="270" cy="30" r="46" fill="#F472B6" opacity="0.12"><animate attributeName="r" values="36;56;36" dur="4s" begin="0.5s" repeatCount="indefinite"/></circle>
+</g>
+<text x="24" y="48" font-size="28">📜<animateTransform attributeName="transform" type="rotate" values="-8 38 40;8 38 40;-8 38 40" dur="3.5s" repeatCount="indefinite"/></text>
+<text x="68" y="42" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="13.5" fill="#fff">Fundamentals of OOP</text>
+<text x="68" y="64" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#F472B6">NPTEL · IIT Roorkee</text>
+<text x="24" y="102" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">⏱ Jan–Apr 2025</text>
+<rect x="1" y="1" width="298" height="118" rx="14" fill="none" stroke="#F472B6" stroke-width="1.6" stroke-dasharray="14 10" stroke-opacity="0.8">
+  <animate attributeName="stroke-dashoffset" values="0;-96" dur="3s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(10 150)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.517;1" dur="1.45s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" values="10 175;10 175;10 150" keyTimes="0;0.517;1" dur="1.45s" fill="freeze"/>
+<g clip-path="url(#cc3)">
+  <rect width="300" height="120" fill="#120c24"/>
+  <rect x="-80" width="50" height="120" fill="#4285F4" opacity="0.18" transform="skewX(-20)"><animate attributeName="x" values="-100;400" dur="4.5s" begin="0.75s" repeatCount="indefinite"/></rect>
+  <circle cx="270" cy="30" r="46" fill="#4285F4" opacity="0.12"><animate attributeName="r" values="36;56;36" dur="4s" begin="0.75s" repeatCount="indefinite"/></circle>
+</g>
+<text x="24" y="48" font-size="28">☁️<animateTransform attributeName="transform" type="rotate" values="-8 38 40;8 38 40;-8 38 40" dur="3.5s" repeatCount="indefinite"/></text>
+<text x="68" y="42" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="13.5" fill="#fff">Intro to Generative AI</text>
+<text x="68" y="64" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#4285F4">Google Cloud</text>
+<text x="24" y="102" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">⏱ 2024</text>
+<rect x="1" y="1" width="298" height="118" rx="14" fill="none" stroke="#4285F4" stroke-width="1.6" stroke-dasharray="14 10" stroke-opacity="0.8">
+  <animate attributeName="stroke-dashoffset" values="0;-96" dur="3s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(330 150)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.588;1" dur="1.70s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" values="330 175;330 175;330 150" keyTimes="0;0.588;1" dur="1.70s" fill="freeze"/>
+<g clip-path="url(#cc4)">
+  <rect width="300" height="120" fill="#120c24"/>
+  <rect x="-80" width="50" height="120" fill="#FBBF24" opacity="0.18" transform="skewX(-20)"><animate attributeName="x" values="-100;400" dur="4.5s" begin="1.0s" repeatCount="indefinite"/></rect>
+  <circle cx="270" cy="30" r="46" fill="#FBBF24" opacity="0.12"><animate attributeName="r" values="36;56;36" dur="4s" begin="1.0s" repeatCount="indefinite"/></circle>
+</g>
+<text x="24" y="48" font-size="28">🥇<animateTransform attributeName="transform" type="rotate" values="-8 38 40;8 38 40;-8 38 40" dur="3.5s" repeatCount="indefinite"/></text>
+<text x="68" y="42" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="13.5" fill="#fff">Hackathon Finalist</text>
+<text x="68" y="64" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#FBBF24">AI Innovation · Open Hackathon</text>
+<text x="24" y="102" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">⏱ 2025</text>
+<rect x="1" y="1" width="298" height="118" rx="14" fill="none" stroke="#FBBF24" stroke-width="1.6" stroke-dasharray="14 10" stroke-opacity="0.8">
+  <animate attributeName="stroke-dashoffset" values="0;-96" dur="3s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(650 150)"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.641;1" dur="1.95s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" values="650 175;650 175;650 150" keyTimes="0;0.641;1" dur="1.95s" fill="freeze"/>
+<g clip-path="url(#cc5)">
+  <rect width="300" height="120" fill="#120c24"/>
+  <rect x="-80" width="50" height="120" fill="#EF4444" opacity="0.18" transform="skewX(-20)"><animate attributeName="x" values="-100;400" dur="4.5s" begin="1.25s" repeatCount="indefinite"/></rect>
+  <circle cx="270" cy="30" r="46" fill="#EF4444" opacity="0.12"><animate attributeName="r" values="36;56;36" dur="4s" begin="1.25s" repeatCount="indefinite"/></circle>
+</g>
+<text x="24" y="48" font-size="28">🛡️<animateTransform attributeName="transform" type="rotate" values="-8 38 40;8 38 40;-8 38 40" dur="3.5s" repeatCount="indefinite"/></text>
+<text x="68" y="42" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="13.5" fill="#fff">C-DAC Bug Bounty 2026</text>
+<text x="68" y="64" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#EF4444">Team XSparks · BOSS Linux 11</text>
+<text x="24" y="102" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#94a3b8">⏱ Jul 7–8, 2026</text>
+<rect x="1" y="1" width="298" height="118" rx="14" fill="none" stroke="#EF4444" stroke-width="1.6" stroke-dasharray="14 10" stroke-opacity="0.8">
+  <animate attributeName="stroke-dashoffset" values="0;-96" dur="3s" repeatCount="indefinite"/></rect>
+</g></svg>
