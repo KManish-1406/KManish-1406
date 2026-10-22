@@ -82,9 +82,10 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<img src="assets/sec-game.svg" alt="Snake Game"/>
+<img src="assets/sec-snake.svg" alt="Contribution Snake"/>
 
-<img src="assets/game.svg" width="960" alt="Self-playing snake game"/>
+<img alt="Contribution snake eating my GitHub contributions" width="100%" src="https://raw.githubusercontent.com/KManish-1406/KManish-1406/output/github-snake-dark.svg"/>
+
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -103,13 +104,6 @@
 
 <br/>
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KManish-1406/KManish-1406/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KManish-1406/KManish-1406/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KManish-1406/KManish-1406/output/github-snake-dark.svg" />
-</picture>
 
 <img src="assets/divider.svg" width="100%"/>
 
