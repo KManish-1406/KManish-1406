@@ -84,7 +84,7 @@
 
 <img src="assets/sec-snake.svg" alt="Contribution Snake"/>
 
-<img alt="Contribution snake eating my GitHub contributions" width="100%" src="https://raw.githubusercontent.com/KManish-1406/KManish-1406/output/github-snake-dark.svg"/>
+<img alt="Contribution snake eating my GitHub contributions" width="100%" src="https://raw.githubusercontent.com/KManish-1406/KManish-1406/output/github-snake.svg"/>
 
 
 <img src="assets/divider.svg" width="100%"/>
